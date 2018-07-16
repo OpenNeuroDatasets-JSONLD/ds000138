@@ -1,0 +1,3 @@
+filename	pain_intensity	stimulus_quality
+func/sub-14_task-preheatstimulation_bold.nii.gz	5	scratching
+func/sub-14_task-postheatstimulation_bold.nii.gz	6	scratching
